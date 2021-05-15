@@ -32,3 +32,6 @@ vim ~/.bashrc
 source ~/.bashrc
 vj> v enters visual mode j highlights next line > indents right 1 tab space
 rm -rf .git = removes .git file from directory
+git fetch --all
+git branch backup-master
+git reset --hard origin/branchName

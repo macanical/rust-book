@@ -1,0 +1,13 @@
+/home/pi/Projects/rust-book/guessing_game/target/debug/deps/getrandom-cb5683ad40fac2bb.rmeta: /home/pi/.cargo/registry/src/github.com-1285ae84e5963aae/getrandom-0.2.2/src/lib.rs /home/pi/.cargo/registry/src/github.com-1285ae84e5963aae/getrandom-0.2.2/src/error.rs /home/pi/.cargo/registry/src/github.com-1285ae84e5963aae/getrandom-0.2.2/src/util.rs /home/pi/.cargo/registry/src/github.com-1285ae84e5963aae/getrandom-0.2.2/src/error_impls.rs /home/pi/.cargo/registry/src/github.com-1285ae84e5963aae/getrandom-0.2.2/src/util_libc.rs /home/pi/.cargo/registry/src/github.com-1285ae84e5963aae/getrandom-0.2.2/src/use_file.rs /home/pi/.cargo/registry/src/github.com-1285ae84e5963aae/getrandom-0.2.2/src/linux_android.rs
+
+/home/pi/Projects/rust-book/guessing_game/target/debug/deps/libgetrandom-cb5683ad40fac2bb.rlib: /home/pi/.cargo/registry/src/github.com-1285ae84e5963aae/getrandom-0.2.2/src/lib.rs /home/pi/.cargo/registry/src/github.com-1285ae84e5963aae/getrandom-0.2.2/src/error.rs /home/pi/.cargo/registry/src/github.com-1285ae84e5963aae/getrandom-0.2.2/src/util.rs /home/pi/.cargo/registry/src/github.com-1285ae84e5963aae/getrandom-0.2.2/src/error_impls.rs /home/pi/.cargo/registry/src/github.com-1285ae84e5963aae/getrandom-0.2.2/src/util_libc.rs /home/pi/.cargo/registry/src/github.com-1285ae84e5963aae/getrandom-0.2.2/src/use_file.rs /home/pi/.cargo/registry/src/github.com-1285ae84e5963aae/getrandom-0.2.2/src/linux_android.rs
+
+/home/pi/Projects/rust-book/guessing_game/target/debug/deps/getrandom-cb5683ad40fac2bb.d: /home/pi/.cargo/registry/src/github.com-1285ae84e5963aae/getrandom-0.2.2/src/lib.rs /home/pi/.cargo/registry/src/github.com-1285ae84e5963aae/getrandom-0.2.2/src/error.rs /home/pi/.cargo/registry/src/github.com-1285ae84e5963aae/getrandom-0.2.2/src/util.rs /home/pi/.cargo/registry/src/github.com-1285ae84e5963aae/getrandom-0.2.2/src/error_impls.rs /home/pi/.cargo/registry/src/github.com-1285ae84e5963aae/getrandom-0.2.2/src/util_libc.rs /home/pi/.cargo/registry/src/github.com-1285ae84e5963aae/getrandom-0.2.2/src/use_file.rs /home/pi/.cargo/registry/src/github.com-1285ae84e5963aae/getrandom-0.2.2/src/linux_android.rs
+
+/home/pi/.cargo/registry/src/github.com-1285ae84e5963aae/getrandom-0.2.2/src/lib.rs:
+/home/pi/.cargo/registry/src/github.com-1285ae84e5963aae/getrandom-0.2.2/src/error.rs:
+/home/pi/.cargo/registry/src/github.com-1285ae84e5963aae/getrandom-0.2.2/src/util.rs:
+/home/pi/.cargo/registry/src/github.com-1285ae84e5963aae/getrandom-0.2.2/src/error_impls.rs:
+/home/pi/.cargo/registry/src/github.com-1285ae84e5963aae/getrandom-0.2.2/src/util_libc.rs:
+/home/pi/.cargo/registry/src/github.com-1285ae84e5963aae/getrandom-0.2.2/src/use_file.rs:
+/home/pi/.cargo/registry/src/github.com-1285ae84e5963aae/getrandom-0.2.2/src/linux_android.rs:
